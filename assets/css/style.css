@@ -1,0 +1,37 @@
+/* === GENERAL === */
+
+body{
+	padding-top: 50px;
+	
+}
+
+.wrap{
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+#deseos{
+	padding-top: 15px;
+}
+
+#description {
+	padding: 10px;
+	text-align: justify;
+}
+
+
+/* === Footer === */
+#footer{
+	padding: 20px;
+	background: #22313F;
+	color: white;
+}
+
+#footer a{
+	color: #F5AB35;
+}
+
+#footer a:hover{
+	color: #F9690E;
+}
